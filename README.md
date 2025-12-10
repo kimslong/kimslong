@@ -26,37 +26,21 @@
 </ul>
 
 ---
+### 🔬 Research Interests
 
-### 🎮 Hobbies & Achievements
+- 🐿 3D Generation & Editing
+- ✋ Hand Reconstruction & Pose Estimation
+- 🤖 Embodied Intelligence & World Model
+- 🎬 Video Understanding
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr style="height: auto;">
-    <!-- 图片列：限制高度，保持扁的核心 -->
-    <td width="20%" style="padding: 0; margin: 0; vertical-align: middle; height: 100%;">
-      <a href="https://example.com/your-gaming-homepage" style="display: block;">
-        <img src="hahaha.jpg" alt="Gaming homepage banner" 
-             style="border-radius:3px; border:1px solid #eaeaea; width:100%; 
-                    max-height: 10px; /* 控制整体高度，数值越小越扁 */
-                    height: 500%; 
-                    object-fit: contain; 
-                    display: block;" />
-      </a>
-    </td>
-    <!-- 第一文字列：Game for Peace 内容 -->
-    <td width="42.5%" style="padding: 0 1px; margin: 0; vertical-align: middle; line-height:0.1; font-size: 4px;">
-      <b>Game for Peace</b><br/>
-      Invincible Warlord ×4 🏆 [SS4, SS8, SS12, SS20]<br/>
-      Peak Grandmaster ×2 🏆 [SS10, SS18]<br/>
-      Top 100 in Peak Competition 🏆 [SS26]
-    </td>
-    <!-- 第二文字列：PUBG Mobile 内容 -->
-    <td width="42.5%" style="padding: 0 0 0 5px; margin: 0; vertical-align: middle; line-height: 1.3; font-size: 5px;">
-      <b>PUBG Mobile</b><br/>
-      Rankings: China #9 · Asia #14 🥇
-    </td>
-  </tr>
-</table>
+---
+### 👥 My Circle
 
+- 👨‍🏫 Advisor: <a href="https://faculty.nuist.edu.cn/YuanZHOU/en/index.htm"><b>Yuan Zhou</b></a> — NUIST
+- 🤝 Clooooooooose collaborator: <a href="https://haoranduan.com/"><b>Haoran Duan</b></a> — Tsinghua University  
+- 🧑‍🔬 Labmates: <a href="https://robin-hlt.github.io/"><b>Litao Hua</b></a>, <a href="https://github.com/huangHH73"><b>Wentao Huang</b></a> — NUIST  
+
+---
 
 ### 📝 Papers
 
@@ -140,6 +124,40 @@
 
 ---
 
+
+### 🎮 Hobbies & Achievements
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr style="height: auto;">
+    <!-- 图片列：限制高度，保持扁的核心 -->
+    <td width="20%" style="padding: 0; margin: 0; vertical-align: middle; height: 100%;">
+      <a href="https://example.com/your-gaming-homepage" style="display: block;">
+        <img src="hahaha.jpg" alt="Gaming homepage banner" 
+             style="border-radius:3px; border:1px solid #eaeaea; width:100%; 
+                    max-height: 10px; /* 控制整体高度，数值越小越扁 */
+                    height: 500%; 
+                    object-fit: contain; 
+                    display: block;" />
+      </a>
+    </td>
+    <!-- 第一文字列：Game for Peace 内容 -->
+    <td width="42.5%" style="padding: 0 1px; margin: 0; vertical-align: middle; line-height:0.1; font-size: 4px;">
+      <b>Game for Peace</b><br/>
+      Invincible Warlord ×4 🏆 [SS4, SS8, SS12, SS20]<br/>
+      Peak Grandmaster ×2 🏆 [SS10, SS18]<br/>
+      Top 100 in Peak Competition 🏆 [SS26]
+    </td>
+    <!-- 第二文字列：PUBG Mobile 内容 -->
+    <td width="42.5%" style="padding: 0 0 0 5px; margin: 0; vertical-align: middle; line-height: 1.3; font-size: 5px;">
+      <b>PUBG Mobile</b><br/>
+      Rankings: China #9 · Asia #14 🥇
+    </td>
+  </tr>
+</table>
+
+
+
+---
 ### ✉️ Contact
 
 - Email (school): <a href="mailto:shilong.jin@nuist.edu.cn">shilong.jin@nuist.edu.cn</a>

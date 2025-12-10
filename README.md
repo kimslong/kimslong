@@ -39,7 +39,7 @@
 - 👨‍🏫 Advisor: <a href="https://faculty.nuist.edu.cn/YuanZHOU/en/index.htm"><b>Yuan Zhou</b></a> — NUIST
 - 🤝 Clooooooooose collaborator: <a href="https://haoranduan.com/"><b>Haoran Duan</b></a> — Tsinghua University  
 - 🧑‍🔬 Labmates: <a href="https://robin-hlt.github.io/"><b>Litao Hua</b></a>, <a href="https://github.com/huangHH73"><b>Wentao Huang</b></a> — NUIST  
-- 🌞 Dearest: <b>Jiajin Cao</b> — NJAU
+
 ---
 
 ### 📝 Papers

@@ -130,7 +130,7 @@
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="height: auto;">
     <!-- 图片列：限制高度，保持扁的核心 -->
-    <td width="20%" style="padding: 0; margin: 0; vertical-align: middle; height: 100%;">
+    <td width="34%" style="padding: 0; margin: 0; vertical-align: middle; height: 100%;">
       <a href="https://example.com/your-gaming-homepage" style="display: block;">
         <img src="hahaha.jpg" alt="Gaming homepage banner" 
              style="border-radius:3px; border:1px solid #eaeaea; width:100%; 

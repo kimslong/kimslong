@@ -2,7 +2,7 @@
 
 <p align="center">
   Third‑year M.S. postgraduate at <b>Nanjing University of Information Science and Technology (NUIST)</b><br>
-  Supervised by <a href="https://faculty.nuist.edu.cn/YuanZHOU/en/index.htm"><b>Prof. Yuan Zhou</b></a>. Closely working with <a href="https://haoranduan.com/"><b>Haoran Duan</b></a> in Tsinghua University. 
+  Supervised by Prof. Yuan Zhou</b></a>. Closely working with <a href="https://haoranduan.com/"><b>Haoran Duan</b></a> in Tsinghua University. 
   <p align="center">
   Algorithm Intern at <b>Lenovo Research</b> (Beijing HQ).
 </p>

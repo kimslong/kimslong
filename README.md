@@ -17,7 +17,6 @@
 ### 🔥 News
 
 <ul>
-  <li>2026.01: 🎓 Pursuing Ph.D. in Artificial Intelligence at <b>NUAA</b> (Nanjing University of Aeronautics and Astronautics)</li>
   <li>2025.11: 🎉 My <b>first‑author</b> paper <a href="https://github.com/kimslong/AAAI26-TDAttn"><b>TD‑Attn</b></a> — <b>accepted</b> to <img src="https://img.shields.io/badge/AAAI-2026-red?style=flat" alt="AAAI 2026" /> <img src="https://img.shields.io/badge/CCF-A-red?style=flat" alt="CCF-A" /></li>
   <li>2025.11: 🎉 I contributed to <a href="https://github.com/robin-hlt/AAAI26-ReaSon"><b>ReaSon</b></a> — <b>accepted</b> to <img src="https://img.shields.io/badge/AAAI-2026-red?style=flat" alt="AAAI 2026" /> <img src="https://img.shields.io/badge/CCF-A-red?style=flat" alt="CCF-A" /></li>
   <li>2025.10: 🎉 I contributed to <a href="https://github.com/GAInuist/ZeroDINO"><b>ZeroDINO</b></a> — <b>accepted</b> to <img src="https://img.shields.io/badge/MMM-2026-2ea44f?style=flat" alt="MMM 2026" /> <img src="https://img.shields.io/badge/CCF-C-orange?style=flat" alt="CCF-C" /></li>

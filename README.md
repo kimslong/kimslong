@@ -17,11 +17,12 @@
 ### 🔥 News
 
 <ul>
+  <li>2026.02: 📰 <a href="https://github.com/GAInuist/ConsDreamer"><b>ConsDreamer</b></a> released on <a href="https://arxiv.org/abs/2504.02316"><img src="https://img.shields.io/badge/arXiv-2504.02316-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv:2504.02316" /></a> (<b>AQ</b> for <b>IEEE-TIP</b>)</li>
   <li>2025.11: 🎉 My <b>first‑author</b> paper <a href="https://github.com/kimslong/AAAI26-TDAttn"><b>TD‑Attn</b></a> — <b>accepted</b> to <img src="https://img.shields.io/badge/AAAI-2026-red?style=flat" alt="AAAI 2026" /> <img src="https://img.shields.io/badge/CCF-A-red?style=flat" alt="CCF-A" /></li>
   <li>2025.11: 🎉 I contributed to <a href="https://github.com/robin-hlt/AAAI26-ReaSon"><b>ReaSon</b></a> — <b>accepted</b> to <img src="https://img.shields.io/badge/AAAI-2026-red?style=flat" alt="AAAI 2026" /> <img src="https://img.shields.io/badge/CCF-A-red?style=flat" alt="CCF-A" /></li>
   <li>2025.10: 🎉 I contributed to <a href="https://github.com/GAInuist/ZeroDINO"><b>ZeroDINO</b></a> — <b>accepted</b> to <img src="https://img.shields.io/badge/MMM-2026-2ea44f?style=flat" alt="MMM 2026" /> <img src="https://img.shields.io/badge/CCF-C-orange?style=flat" alt="CCF-C" /></li>
   <li>2025.09: 💼 Algorithm Intern at <b>Lenovo Research</b> (Beijing HQ)</li>
-  <li>2025.04: 📰 <a href="https://github.com/GAInuist/ConsDreamer"><b>ConsDreamer</b></a> released on arXiv <a href="https://arxiv.org/abs/2504.02316"><img src="https://img.shields.io/badge/arXiv-2504.02316-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv:2504.02316" /></a> (<i>Revised and resubmitted to IEEE‑TIP</i>)</li>
+  <li>2025.04: 📰 <a href="https://github.com/GAInuist/ConsDreamer"><b>ConsDreamer</b></a> released on <a href="https://arxiv.org/abs/2504.02316"><img src="https://img.shields.io/badge/arXiv-2504.02316-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv:2504.02316" /></a> (<b>RQ</b> for <i>IEEE Transactions on Image Processing</i> (<b>IEEE-TIP</b>))</li>
   <li>2023.09: 🎓 Started postgraduate studies at <b>NUIST</b>, supervised by <a href="https://faculty.nuist.edu.cn/YuanZHOU/en/index.htm"><b>Prof. Yuan Zhou</b></a></li>
 </ul>
 

@@ -119,6 +119,7 @@
       <img src="zerodino0.png" alt="ZeroDINO: Entropy-Driven Granularity-Aware Semantic Fusion for Zero-Shot Learning" style="border-radius:8px;border:1px solid #eaeaea;width:100%;" />
     </td>
     <td style="background-color: white !important; border: none; text-align: center; padding: 8px 0;">
+       <img src="MMM26_icon.png" alt="TIP26 icon" style="height:8em; border:none;" /><br/>
       <img src="https://img.shields.io/badge/MMM%2726-2ea44f?style=flat" alt="MMM'26" />
       <br/>
       <b>ZeroDINO: Entropy-Driven Granularity-Aware Semantic Fusion for Zero-Shot Learning</b><br/>

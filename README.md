@@ -96,7 +96,7 @@
 <table style="background-color: white !important; border: none;">
   <tr style="background-color: white !important; border: none;">
     <td width="30%" style="background-color: white !important; border: none; padding: 8px 0;">
-      <img src="reason0.png" alt="ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding" style="border-radius:8px;border:1px solid #eaeaea;width:100%;" />
+      <img src="reason_poster.png" alt="ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding" style="border-radius:8px;border:1px solid #eaeaea;width:100%;" />
     </td>
     <td style="background-color: white !important; border: none; text-align: center; padding: 8px 0;">
       <img src="AAAI26_icon.png" alt="TIP26 icon" style="height:8em; border:none;" /><br/>

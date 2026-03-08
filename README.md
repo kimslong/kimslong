@@ -54,7 +54,7 @@
 <table style="background-color: white !important; border: none;">
   <tr style="background-color: white !important; border: none;">
     <td width="30%" style="background-color: white !important; border: none; padding: 8px 0;">
-      <img src="consdreamer2.png" alt="ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation" style="border-radius:8px;border:1px solid #eaeaea;width:100%;" />
+      <img src="consdreamer_poster.png" alt="ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation" style="border-radius:8px;border:1px solid #eaeaea;width:100%;" />
     </td>
     <td style="background-color: white !important; border: none; text-align: center; padding: 8px 0;">
       <img src="TIP26_icon.png" alt="TIP26 icon" style="height:7em; border:none;" /><br/><br/>

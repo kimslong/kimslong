@@ -30,23 +30,6 @@
 </ul>
 
 ---
-### 🔬 Research Interests
-
-- 🐿 3D Generation & Editing
-- ✋ Hand Reconstruction & Pose Estimation
-- 🤖 Embodied Intelligence & World Model
-- 🎬 Video Understanding
-
----
-### 👥 My Circle
-
-- 👨‍🏫 Advisor: <a href="https://faculty.nuist.edu.cn/YuanZHOU/en/index.htm"><b>Yuan Zhou</b></a> — NUIST
-- 🤝 Clooooooooose collaborator: <a href="https://haoranduan.com/"><b>Haoran Duan</b></a> — Tsinghua University  
-- 🧑‍🔬 Labmates: <a href="https://robin-hlt.github.io/"><b>Litao Hua</b></a>, <a href="https://github.com/huangHH73"><b>Wentao Huang</b></a>, <b>Zhixuan Deng</b></a> (NUIST);
-<b>Lei Xiang</b> (Nagoya University); <b>Yifan Zhu</b> (NJUST)
-
-
----
 
 ### 📝 Papers
 
@@ -143,6 +126,23 @@
     </td>
   </tr>
 </table>
+
+
+---
+### 🔬 Research Interests
+
+- 🐿 3D Generation & Editing
+- ✋ Hand Reconstruction & Pose Estimation
+- 🤖 Embodied Intelligence & World Model
+- 🎬 Video Understanding
+
+---
+### 👥 My Circle
+
+- 👨‍🏫 Advisor: <a href="https://faculty.nuist.edu.cn/YuanZHOU/en/index.htm"><b>Yuan Zhou</b></a> — NUIST
+- 🤝 Clooooooooose collaborator: <a href="https://haoranduan.com/"><b>Haoran Duan</b></a> — Tsinghua University  
+- 🧑‍🔬 Labmates: <a href="https://robin-hlt.github.io/"><b>Litao Hua</b></a>, <a href="https://github.com/huangHH73"><b>Wentao Huang</b></a>, <b>Zhixuan Deng</b></a> (NUIST);
+<b>Lei Xiang</b> (Nagoya University); <b>Yifan Zhu</b> (NJUST)
 
 
 ---

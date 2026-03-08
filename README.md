@@ -24,7 +24,7 @@
   <li>2025.11: 🎉 My <b>First‑Author</b> paper <a href="https://github.com/kimslong/AAAI26-TDAttn"><b>TD‑Attn</b></a> — <b>accepted to AAAI'26</b> <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" /></li>
   <li>2025.11: 🎉 I contributed to <a href="https://github.com/robin-hlt/AAAI26-ReaSon"><b>ReaSon</b></a> — <b>accepted to AAAI'26</b> <img src="https://img.shields.io/badge/CCF-A-%23A51C1C?style=flat" alt="CCF-A" /></li>
   <li>2025.10: 🎉 I contributed to <a href="https://github.com/GAInuist/ZeroDINO"><b>ZeroDINO</b></a> — <b>accepted to MMM'26</b> <img src="https://img.shields.io/badge/CCF-C-orange?style=flat" alt="CCF-C" /></li>
-  <li>2025.09: 💼 Algorithm Intern at <b>Lenovo Research</b> (Beijing HQ)</li>
+  <li>2025.09: 💼 Algorithm Intern at <b>Lenovo Research</b> (Beijing HQ) <img src="lenovo_icon.png" alt="lenovo_icon" style="height:1.1em; vertical-align:bottom; display:inline; border:none;" /> </li>
   <li>2025.04: 📰 <a href="https://github.com/GAInuist/ConsDreamer"><b>ConsDreamer</b></a> released on arXiv (<b>RQ</b> for <i>IEEE Transactions on Image Processing</i> (<b>IEEE T-IP</b>))</li>
   <li>2023.09: 🎓 Started postgraduate studies at <b>NUIST</b>, supervised by <a href="https://faculty.nuist.edu.cn/YuanZHOU/en/index.htm"><b>Prof. Yuan Zhou</b></a></li>
 </ul>
@@ -42,7 +42,9 @@
 
 - 👨‍🏫 Advisor: <a href="https://faculty.nuist.edu.cn/YuanZHOU/en/index.htm"><b>Yuan Zhou</b></a> — NUIST
 - 🤝 Clooooooooose collaborator: <a href="https://haoranduan.com/"><b>Haoran Duan</b></a> — Tsinghua University  
-- 🧑‍🔬 Labmates: <a href="https://robin-hlt.github.io/"><b>Litao Hua</b></a>, <a href="https://github.com/huangHH73"><b>Wentao Huang</b></a> — NUIST  
+- 🧑‍🔬 Labmates: <a href="https://robin-hlt.github.io/"><b>Litao Hua</b></a>, <a href="https://github.com/huangHH73"><b>Wentao Huang</b></a>, <b>Zhixuan Deng</b></a> (NUIST);
+<b>Lei Xiang</b> (Nagoya University); <b>Yifan Zhu</b> (NJUST)
+
 
 ---
 
@@ -74,6 +76,7 @@
       <img src="consdreamer2.png" alt="ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation" style="border-radius:8px;border:1px solid #eaeaea;width:100%;" />
     </td>
     <td>
+      <img src="TIP26_icon.png" alt="TIP26 icon" style="height:8em; vertical-align:middle; display:inline; border:none;" /><br/>
       <img src="https://img.shields.io/badge/IEEE- TIP' 26-2ea44f?style=flat" alt="IEEE- TIP' 26" />
       <img src="https://img.shields.io/badge/SCI-Q1 Top-b31b1b?style=flat" alt="SCI Q1" />
     <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />

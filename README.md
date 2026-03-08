@@ -61,7 +61,7 @@
       <img src="poster_1.png" alt="Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting" style="border-radius:8px;border:1px solid #eaeaea;width:100%;" />
     </td>
     <td style="background-color: white !important; border: none; text-align: center; padding: 8px 0;">
-      <img src="AAAI26_icon.png" alt="TIP26 icon" style="height:8em; border:none;" /><br/>
+      <img src="AAAI26_icon.png" alt="TIP26 icon" style="height:6em; border:none;" /><br/>
       <img src="https://img.shields.io/badge/AAAI%2726-2ea44f?style=flat" alt="AAAI'26" />
       <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />
       <br/>
@@ -80,7 +80,7 @@
       <img src="reason_poster.png" alt="ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding" style="border-radius:8px;border:1px solid #eaeaea;width:100%;" />
     </td>
     <td style="background-color: white !important; border: none; text-align: center; padding: 8px 0;">
-      <img src="AAAI26_icon.png" alt="TIP26 icon" style="height:8em; border:none;" /><br/>
+      <img src="AAAI26_icon.png" alt="TIP26 icon" style="height:6em; border:none;" /><br/>
       <img src="https://img.shields.io/badge/AAAI%2726-2ea44f?style=flat" alt="AAAI'26" />
       <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />
       <br/>
@@ -99,7 +99,7 @@
       <img src="mmm_poster.png" alt="ZeroDINO: Entropy-Driven Granularity-Aware Semantic Fusion for Zero-Shot Learning" style="border-radius:8px;border:1px solid #eaeaea;width:100%;" />
     </td>
     <td style="background-color: white !important; border: none; text-align: center; padding: 8px 0;">
-       <img src="MMM26_icon.png" alt="TIP26 icon" style="height:8em; border:none;" /><br/>
+       <img src="MMM26_icon.png" alt="TIP26 icon" style="height:6em; border:none;" /><br/>
       <img src="https://img.shields.io/badge/MMM%2726-2ea44f?style=flat" alt="MMM'26" />
       <img src="https://img.shields.io/badge/CCF-C-orange?style=flat" alt="CCF-C" />
       <br/>

@@ -181,14 +181,4 @@
 
 
 ---
-### ✉️ Contact
 
-- Email (school): <a href="mailto:shilong.jin@nuist.edu.cn">shilong.jin@nuist.edu.cn</a>
-- Email (personal): <a href="mailto:shilonnng@gmail.com">shilonnng@gmail.com</a>
-
-<!--
-Notes for editing:
-- Replace the four publication rows with your real titles, authors, and links.
-- Swap the placeholder cover images with your paper covers or teasers.
-- If you add more works later, copy a row block and paste another below.
--->

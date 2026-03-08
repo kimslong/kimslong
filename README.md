@@ -46,7 +46,7 @@
       <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />
       <img src="https://img.shields.io/badge/IF-13.7-blue?style=flat" alt="IF 13.7" /><br/>
       <b>ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation</b><br/>
-      <span>Authors: Yuan Zhou(Supervisor), <b>Shilong Jin</b>, Litao Hua, Wanjun Lv, Haoran Duan, Jungong Han</span><br/>
+     <span>Authors: Yuan Zhou, <b style="font-size: 1.3rem;">Shilong Jin</b>, Litao Hua, Wanjun Lv, Haoran Duan, Jungong Han</span><br/>
       <a href="https://arxiv.org/abs/2504.02316"><img src="https://img.shields.io/badge/arXiv-2504.02316-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv:2504.02316" /></a>
       <a href="https://github.com/GAInuist/ConsDreamer"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
     </td>

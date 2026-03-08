@@ -65,7 +65,6 @@
       <b>ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation</b><br/>
       <span>Authors: Yuan Zhou (Supervisor), <b>Shilong Jin</b>, Litao Hua, Wanjun Lv, Haoran Duan, Jungong Han</span><br/>
       <a href="https://arxiv.org/abs/2504.02316"><img src="https://img.shields.io/badge/arXiv-2504.02316-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv:2504.02316" /></a>
-      <br/>
       <a href="https://github.com/GAInuist/ConsDreamer"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
     </td>
   </tr>
@@ -86,7 +85,6 @@
       <b>Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting</b><br/>
       <span>Authors: <b>Shilong Jin</b>, Haoran Duan, Litao Hua, Wentao Huang, Yuan Zhou</span><br/>
       <a href="https://arxiv.org/pdf/2512.07345"><img src="https://img.shields.io/badge/arXiv-2512.07345-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv:2512.07345" /></a>
-      <br/>
       <a href="https://github.com/kimslong/AAAI26-TDAttn"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
     </td>
   </tr>
@@ -106,7 +104,6 @@
       <b>ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding</b><br/>
       <span>Authors: Yuan Zhou, Litao Hua, <b>Shilong Jin</b>, Wentao Huang, Haoran Duan</span><br/>
       <a href="https://arxiv.org/abs/2511.12530"><img src="https://img.shields.io/badge/arXiv-2511.12530-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv:2511.12530" /></a>
-      <br/>
       <a href="https://github.com/robin-hlt/AAAI26-ReaSon"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
     </td>
   </tr>
@@ -121,10 +118,10 @@
     <td style="background-color: white !important; border: none; text-align: center; padding: 8px 0;">
        <img src="MMM26_icon.png" alt="TIP26 icon" style="height:8em; border:none;" /><br/>
       <img src="https://img.shields.io/badge/MMM%2726-2ea44f?style=flat" alt="MMM'26" />
+      <img src="https://img.shields.io/badge/CCF-C-orange?style=flat" alt="CCF-C" />
       <br/>
       <b>ZeroDINO: Entropy-Driven Granularity-Aware Semantic Fusion for Zero-Shot Learning</b><br/>
       <span>Authors: Zhixuan Deng, Yifan Zhu, Lei Xiang, <b>Shilong Jin</b>, Haoran Duan, Yang Long,Yuan Zhou</span><br/>
-      <span> <img src="https://img.shields.io/badge/CCF-C-orange?style=flat" alt="CCF-C" /></span><br/>
       <a href="https://github.com/GAInuist/ZeroDINO"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
     </td>
   </tr>

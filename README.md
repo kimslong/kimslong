@@ -50,14 +50,37 @@
 
 ### 📝 Papers
 
-<table>
+<!-- 论文1：独立表格 -->
+<table style="background-color: white !important; border: none;">
+  <tr style="background-color: white !important; border: none;">
+    <td width="30%" style="background-color: white !important; border: none; padding: 8px 0;">
+      <img src="consdreamer2.png" alt="ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation" style="border-radius:8px;border:1px solid #eaeaea;width:100%;" />
+    </td>
+    <td style="background-color: white !important; border: none; text-align: center; padding: 8px 0;">
+      <img src="TIP26_icon.png" alt="TIP26 icon" style="height:8em; border:none;" /><br/><br/>
+      <img src="https://img.shields.io/badge/IEEE- TIP' 26-2ea44f?style=flat" alt="IEEE- TIP' 26" />
+      <img src="https://img.shields.io/badge/SCI-Q1 Top-b31b1b?style=flat" alt="SCI Q1" />
+      <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />
+      <img src="https://img.shields.io/badge/IF-13.7-blue?style=flat" alt="IF 13.7" /><br/>
+      <b>ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation</b><br/>
+      <span>Authors: Yuan Zhou (Supervisor), <b>Shilong Jin</b>, Litao Hua, Wanjun Lv, Haoran Duan, Jungong Han</span><br/>
+      <a href="https://arxiv.org/abs/2504.02316"><img src="https://img.shields.io/badge/arXiv-2504.02316-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv:2504.02316" /></a>
+      <br/>
+      <a href="https://github.com/GAInuist/ConsDreamer"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
+    </td>
+  </tr>
+</table>
 
-  <tr>
-    <td width="30%">
+
+<!-- 论文2：独立表格 -->
+<table style="background-color: white !important; border: none;">
+  <tr style="background-color: white !important; border: none;">
+    <td width="30%" style="background-color: white !important; border: none; padding: 8px 0;">
       <img src="poster_1.png" alt="Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting" style="border-radius:8px;border:1px solid #eaeaea;width:100%;" />
     </td>
-    <td>
-       <img src="https://img.shields.io/badge/AAAI%2726-2ea44f?style=flat" alt="AAAI'26" />
+    <td style="background-color: white !important; border: none; text-align: center; padding: 8px 0;">
+      <img src="AAAI26_icon.png" alt="TIP26 icon" style="height:8em; border:none;" /><br/>
+      <img src="https://img.shields.io/badge/AAAI%2726-2ea44f?style=flat" alt="AAAI'26" />
       <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />
       <br/>
       <b>Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting</b><br/>
@@ -67,52 +90,35 @@
       <a href="https://github.com/kimslong/AAAI26-TDAttn"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
     </td>
   </tr>
+</table>
 
-
-
-  <!-- 论文2 -->
-  <tr>
-    <td width="30%">
-      <img src="consdreamer2.png" alt="ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation" style="border-radius:8px;border:1px solid #eaeaea;width:100%;" />
+<!-- 论文3：独立表格 -->
+<table style="background-color: white !important; border: none;">
+  <tr style="background-color: white !important; border: none;">
+    <td width="30%" style="background-color: white !important; border: none; padding: 8px 0;">
+      <img src="reason0.png" alt="ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding" style="border-radius:8px;border:1px solid #eaeaea;width:100%;" />
     </td>
-    <td>
-      <img src="TIP26_icon.png" alt="TIP26 icon" style="height:8em; vertical-align:middle; display:inline; border:none;" /><br/>
-      <img src="https://img.shields.io/badge/IEEE- TIP' 26-2ea44f?style=flat" alt="IEEE- TIP' 26" />
-      <img src="https://img.shields.io/badge/SCI-Q1 Top-b31b1b?style=flat" alt="SCI Q1" />
-    <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />
-    <img src="https://img.shields.io/badge/IF-13.7-blue?style=flat" alt="IF 13.7" /><br/>
-      <b>ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation</b><br/>
-      <span>Authors: Yuan Zhou (Supervisor), <b>Shilong Jin</b>, Litao Hua, Wanjun Lv, Haoran Duan, Jungong Han</span><br/>
-      <a href="https://arxiv.org/abs/2504.02316"><img src="https://img.shields.io/badge/arXiv-2504.02316-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv:2504.02316" /></a>
+    <td style="background-color: white !important; border: none; text-align: center; padding: 8px 0;">
+      <img src="AAAI26_icon.png" alt="TIP26 icon" style="height:8em; border:none;" /><br/>
+      <img src="https://img.shields.io/badge/AAAI%2726-2ea44f?style=flat" alt="AAAI'26" />
+      <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />
       <br/>
-      <a href="https://github.com/GAInuist/ConsDreamer"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
+      <b>ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding</b><br/>
+      <span>Authors: Yuan Zhou, Litao Hua, <b>Shilong Jin</b>, Wentao Huang, Haoran Duan</span><br/>
+      <a href="https://arxiv.org/abs/2511.12530"><img src="https://img.shields.io/badge/arXiv-2511.12530-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv:2511.12530" /></a>
+      <br/>
+      <a href="https://github.com/robin-hlt/AAAI26-ReaSon"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
     </td>
   </tr>
+</table>
 
-  <!-- 论文3 -->
-  <tr>
-  <td width="30%">
-    <img src="reason0.png" alt="ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding" style="border-radius:8px;border:1px solid #eaeaea;width:100%;" />
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/AAAI%2726-2ea44f?style=flat" alt="AAAI'26" />
-    <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />
-    <br/>
-    <b>ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding</b><br/>
-    <span>Authors: Yuan Zhou, Litao Hua, <b>Shilong Jin</b>, Wentao Huang, Haoran Duan</span><br/>
-    <a href="https://arxiv.org/abs/2511.12530"><img src="https://img.shields.io/badge/arXiv-2511.12530-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv:2511.12530" /></a>
-    <br/>
-    <a href="https://github.com/robin-hlt/AAAI26-ReaSon"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
-  </td>
-</tr>
- 
-
-  <!-- 论文4 -->
-  <tr>
-    <td width="30%">
+<!-- 论文4：独立表格 -->
+<table style="background-color: white !important; border: none;">
+  <tr style="background-color: white !important; border: none;">
+    <td width="30%" style="background-color: white !important; border: none; padding: 8px 0;">
       <img src="zerodino0.png" alt="ZeroDINO: Entropy-Driven Granularity-Aware Semantic Fusion for Zero-Shot Learning" style="border-radius:8px;border:1px solid #eaeaea;width:100%;" />
     </td>
-    <td>
+    <td style="background-color: white !important; border: none; text-align: center; padding: 8px 0;">
       <img src="https://img.shields.io/badge/MMM%2726-2ea44f?style=flat" alt="MMM'26" />
       <br/>
       <b>ZeroDINO: Entropy-Driven Granularity-Aware Semantic Fusion for Zero-Shot Learning</b><br/>
@@ -121,21 +127,23 @@
       <a href="https://github.com/GAInuist/ZeroDINO"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
     </td>
   </tr>
+</table>
 
-
-  <tr>
-    <td width="30%">
+<!-- 论文5：独立表格 -->
+<table style="background-color: white !important; border: none;">
+  <tr style="background-color: white !important; border: none;">
+    <td width="30%" style="background-color: white !important; border: none; padding: 8px 0;">
       <img src="VTR.png" alt="Dual Semantic-Controlled Conversion of Virtual to Real Images for Maritime Unmanned Boats" style="border-radius:8px;border:1px solid #eaeaea;width:100%;" />
     </td>
-    <td>
+    <td style="background-color: white !important; border: none; text-align: center; padding: 8px 0;">
       <img src="https://img.shields.io/badge/Control Engineering%2726-2ea44f?style=flat" alt="Control Engineering" /> 
       <br/>
       <b>Dual Semantic-Controlled Conversion of Virtual to Real Images for Maritime Unmanned Boats</b><br/>
       <span>Authors: Fan Liu, Qiqiang Wang, Yifan Zhu, <b>Shilong Jin</b>, Yuan Zhou</span><br/>
-      <span> 
-        <br/>
-        <a href="https://github.com/GAInuist/CVR"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
-      </span>
+      <br/>
+      <a href="https://github.com/GAInuist/CVR"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
+    </td>
+  </tr>
 </table>
 
 

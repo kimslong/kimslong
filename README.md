@@ -21,9 +21,9 @@
     <img src="https://img.shields.io/badge/SCI-Q1 Top-b31b1b?style=flat" alt="SCI Q1" />
     <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />
     <img src="https://img.shields.io/badge/IF-13.7-blue?style=flat" alt="IF 13.7" /></li>
-  <li>2025.11: 🎉 My <b>First‑Author</b> paper <a href="https://github.com/kimslong/AAAI26-TDAttn"><b>TD‑Attn</b></a> — <b>accepted to AAAI'26</b> <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" /></li>
-  <li>2025.11: 🎉 I contributed to <a href="https://github.com/robin-hlt/AAAI26-ReaSon"><b>ReaSon</b></a> — <b>accepted to AAAI'26</b> <img src="https://img.shields.io/badge/CCF-A-%23A51C1C?style=flat" alt="CCF-A" /></li>
-  <li>2025.10: 🎉 I contributed to <a href="https://github.com/GAInuist/ZeroDINO"><b>ZeroDINO</b></a> — <b>accepted to MMM'26</b> <img src="https://img.shields.io/badge/CCF-C-orange?style=flat" alt="CCF-C" /></li>
+  <li>2025.11: 🎉 My Paper <a href="https://github.com/kimslong/AAAI26-TDAttn"><b>TD‑Attn</b></a> — <b>accepted to AAAI'26</b> <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" /></li>
+  <li>2025.11: 🎉 My Paper <a href="https://github.com/robin-hlt/AAAI26-ReaSon"><b>ReaSon</b></a> — <b>accepted to AAAI'26</b> <img src="https://img.shields.io/badge/CCF-A-%23A51C1C?style=flat" alt="CCF-A" /></li>
+  <li>2025.10: 🎉 My Paper <a href="https://github.com/GAInuist/ZeroDINO"><b>ZeroDINO</b></a> — <b>accepted to MMM'26</b> <img src="https://img.shields.io/badge/CCF-C-orange?style=flat" alt="CCF-C" /></li>
   <li>2025.09: 💼 Algorithm Intern at <b>Lenovo Research</b> (Beijing HQ) <img src="lenovo.png" alt="lenovo_icon" style="height:1.5em; vertical-align:bottom; display:inline; border:none;" /> </li>
   <li>2025.04: 📰 <a href="https://github.com/GAInuist/ConsDreamer"><b>ConsDreamer</b></a> released on arXiv (<b>RQ</b> for <i>IEEE Transactions on Image Processing</i> (<b>IEEE T-IP</b>))</li>
   <li>2023.09: 🎓 Started postgraduate studies at <b>NUIST</b>, supervised by <a href="https://faculty.nuist.edu.cn/YuanZHOU/en/index.htm"><b>Prof. Yuan Zhou</b></a></li>

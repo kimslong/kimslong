@@ -129,6 +129,28 @@
 
 
 ---
+### 💼 Internships
+
+<!-- 实习1：Lenovo Research - 优化后布局 -->
+<table style="background-color: white !important; border: none; width: 100%;"> <!-- 关键：添加width:100%让表格占满宽度 -->
+  <tr style="background-color: white !important; border: none;">
+    <!-- 调整列宽为30%（logo列），更贴合视觉比例 -->
+    <td width="40%" style="background-color: white !important; border: none; padding: 8px 0; text-align: center;">
+      <!-- 图片宽度调整为80%（相对于列），显示更合理 -->
+      <img src="Lenovo-China-logo-02.png" alt="Lenovo Research Logo" style="border-radius:8px;border:1px solid #eaeaea;width:100%; display: block; margin: 0 auto;" />
+    </td>
+    <!-- 文字列占70%，填充右侧空间 -->
+    <td width="60%" style="background-color: white !important; border: none; text-align: left; padding: 8px 16px; line-height: 1.8;">
+      <b style="font-size: 1.8rem;">Lenovo Research (Beijing HQ)</b> <br/>
+      <span style="font-size: 1.1rem;">CTOO Human-centered Innovation Intelligence and Insights</span><br/>
+      <span style="font-size: 1.1rem;"><b style="font-size: 1.8rem;">Algorithm Intern </b>· Sep. 2025 – Jan. 2026</span><br/>
+      <span style="font-size: 1.1rem;">Hand-Eye Intent Interaction Understanding · Pose Estimation Algorithms</span>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🔬 Research Interests
 
 - 🐿 3D Generation & Editing

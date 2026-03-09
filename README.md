@@ -105,6 +105,7 @@
       <br/>
       <b>ZeroDINO: Entropy-Driven Granularity-Aware Semantic Fusion for Zero-Shot Learning</b><br/>
       <span>Authors: Zhixuan Deng, Yifan Zhu, Lei Xiang, <b>Shilong Jin</b>, Haoran Duan, Yang Long,Yuan Zhou</span><br/>
+      <a href="https://link.springer.com/chapter/10.1007/978-981-95-6960-1_43"><img src="https://img.shields.io/badge/Springer-10.1007/978--981--95--6960--1_43-009639?style=flat&logo=springer&logoColor=white" alt="Springer:10.1007/978-981-95-6960-1_43" /></a>
       <a href="https://github.com/GAInuist/ZeroDINO"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
     </td>
   </tr>

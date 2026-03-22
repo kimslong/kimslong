@@ -122,14 +122,28 @@
       <img src="https://img.shields.io/badge/Control Engineering%2726-2ea44f?style=flat" alt="Control Engineering" /> 
       <br/>
       <b>Dual Semantic-Controlled Conversion of Virtual to Real Images for Maritime Unmanned Boats</b><br/>
-      <span>Authors: Fan Liu, Qiqiang Wang, Yifan Zhu, <b>Shilong Jin</b>, Yuan Zhou</span><br/>
+      <span>Authors: Fan Liu, Qihiang Wang, Yifan Zhu, Lei Xiang, <b>Shilong Jin</b>, Yuan Zhou</span><br/>
       <br/>
       <a href="https://github.com/GAInuist/CVR"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
     </td>
   </tr>
 </table>
 
- 
+ <!-- 发明专利：独立表格 -->
+<table style="background-color: white !important; border: none;">
+  <tr style="background-color: white !important; border: none;">
+   <td width="30%" style="background-color: white !important; border: none; padding: 8px 0;">
+      <img src="fmzl.jpg" alt="发明专利证书：一种增强视角一致性的零样本3D生成方法" style="border-radius:8px;border:1px solid #eaeaea;width:100%;" />
+    </td>
+    <td style="background-color: white !important; border: none; text-align: center; padding: 8px 0;">
+      <img src="https://img.shields.io/badge/Chinese-Invention Patent-2ea44f?style=flat" alt="Chinese Invention Patent" />
+      <img src="https://img.shields.io/badge/Authorized-2025.05.27-blue?style=flat" alt="Authorized: 2025-05-27" />
+      <br/>
+      <b>一种增强视角一致性的零样本3D生成方法</b><br/>
+      <span>Inventors: Yuan Zhou, <b style="font-size: 1.3rem;">Shilong Jin</b></span><br/>
+    </td>
+  </tr>
+</table>
 
 ---
 ### 💼 Internships

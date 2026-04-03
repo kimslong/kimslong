@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/SCI-Q1 Top-b31b1b?style=flat" alt="SCI Q1" />
     <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />
     <img src="https://img.shields.io/badge/IF-13.7-blue?style=flat" alt="IF 13.7" /></li> 
+  <li>2026.01: 🎓 Pursuing Ph.D. in Artificial Intelligence at <b>NUAA</b> (Nanjing University of Aeronautics and Astronautics)</li>
   <li>2025.11: 🎉 My Paper <a href="https://github.com/kimslong/AAAI26-TDAttn"><b>TD‑Attn</b></a> — <b>accepted to AAAI'26</b> <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" /></li>
   <li>2025.11: 🎉 My Paper <a href="https://github.com/robin-hlt/AAAI26-ReaSon"><b>ReaSon</b></a> — <b>accepted to AAAI'26</b> <img src="https://img.shields.io/badge/CCF-A-%23A51C1C?style=flat" alt="CCF-A" /></li>
   <li>2025.10: 🎉 My Paper <a href="https://github.com/GAInuist/ZeroDINO"><b>ZeroDINO</b></a> — <b>accepted to MMM'26</b> <img src="https://img.shields.io/badge/CCF-C-orange?style=flat" alt="CCF-C" /></li>
@@ -205,7 +206,7 @@
     <!-- 第一文字列：Game for Peace 内容 -->
     <td width="42.5%" style="padding: 0 1px; margin: 0; vertical-align: middle; line-height:0.1; font-size: 4px;">
       <b>Game for Peace</b><br/>
-      Invincible Warlord ×4 🏆 [SS4, SS8, SS12, SS20]<br/>
+      Invincible Warlord ×4 🏆 [SS4, SS8, SS12, SS20, SS38]<br/>
       Peak Grandmaster ×2 🏆 [SS10, SS18]<br/>
       Top 100 in Peak Competition 🏆 [SS26]
     </td>

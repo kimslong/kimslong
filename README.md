@@ -27,7 +27,6 @@
   <li>2025.10: 🎉 My Paper <a href="https://github.com/GAInuist/ZeroDINO"><b>ZeroDINO</b></a> — <b>accepted to MMM'26</b> <img src="https://img.shields.io/badge/CCF-C-orange?style=flat" alt="CCF-C" /></li>
   <li>2025.09: 💼 Algorithm Intern at <b>Lenovo Research</b> (Beijing HQ) <img src="Lenovo-China-logo-02.png" alt="lenovo_icon" style="height:1.2em; vertical-align:bottom; display:inline; border:none;" /> </li>
 </ul>
----
 
 
 ### 🎮 Hobbies & Achievements

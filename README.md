@@ -27,6 +27,48 @@
   <li>2025.10: 🎉 My Paper <a href="https://github.com/GAInuist/ZeroDINO"><b>ZeroDINO</b></a> — <b>accepted to MMM'26</b> <img src="https://img.shields.io/badge/CCF-C-orange?style=flat" alt="CCF-C" /></li>
   <li>2025.09: 💼 Algorithm Intern at <b>Lenovo Research</b> (Beijing HQ) <img src="Lenovo-China-logo-02.png" alt="lenovo_icon" style="height:1.2em; vertical-align:bottom; display:inline; border:none;" /> </li>
 </ul>
+---
+
+
+### 🎮 Hobbies & Achievements
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr style="height: auto;">
+    <!-- 图片列：限制高度，保持扁的核心 -->
+    <td width="50%" style="padding: 0; margin: 0; vertical-align: middle; height: 100%;">
+      <a href="https://example.com/your-gaming-homepage" style="display: block;">
+        <img src="game.jpg" alt="Gaming homepage banner" 
+             style="border-radius:3px; border:1px solid #eaeaea; width:100%; 
+                    max-height: 10px; /* 控制整体高度，数值越小越扁 */
+                    height: 500%; 
+                    object-fit: contain; 
+                    display: block;" />
+      </a>
+    </td>
+<!-- 第一文字列：Game for Peace 内容 -->
+    <td width="30%" style="padding: 0 1px; margin: 0; vertical-align: middle; line-height:0.1; font-size: 4px;">
+      <b>Game for Peace</b><br/>
+      无敌战神 ×3 🏆 [SS4, SS8, SS38]<br/>
+      巅峰宗师 ×2 🏆 [SS10, SS18]<br/>
+      高校榜榜一 🥇 [SS38]<br/>
+      巅峰赛-北京市级百强 🏆 [SS26]<br/>
+      晋级赛-绝世王牌 ×4 🏆<br/>
+      城市赛冠军 🏆<br/>
+      月赛冠军 🏆<br/>
+      40王牌印记 🏆<br/>
+    </td>
+    <!-- 第二文字列：PUBG Mobile 内容 -->
+    <td width="20%" style="padding: 0 0 0 5px; margin: 0; vertical-align: middle; line-height: 1.3; font-size: 5px;">
+      <b>PUBG Mobile</b><br/>
+      C1S1无敌战神 🏆<br/>
+      中国第9 🏆<br/>
+      亚洲第14 🏆<br/>
+    </td>
+  </tr>
+</table>
+
+
+
 
 ---
 

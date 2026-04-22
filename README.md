@@ -2,7 +2,7 @@
 
 <p align="center">
   Third‑year M.S. postgraduate at <b>Nanjing University of Information Science and Technology</b><br>
-  Supervised by Prof. <a href="https://github.com/GAInuist"><b>Yuan Zhou</b></a>. Closely working with <a href="https://haoranduan.com/"><b>Haoran Duan</b></a> in Tsinghua University. 
+  Supervised by Prof. <a href="https://github.com/GAInuist"><b>Yuan Zhou</b></a>. Closely working with <a href="https://github.com/haoranD"><b>Haoran Duan</b></a> in Tsinghua University. 
   <p align="center">
   Algorithm Intern at <b>Lenovo Research</b> (Beijing HQ).
 </p>

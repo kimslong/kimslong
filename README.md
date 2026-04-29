@@ -4,7 +4,6 @@
   Third‑year M.S. postgraduate at <b>Nanjing University of Information Science and Technology</b><br>
   Supervised by Prof. <a href="https://github.com/GAInuist"><b>Yuan Zhou</b></a>. Closely working with <a href="https://github.com/haoranD"><b>Haoran Duan</b></a> in Tsinghua University. 
   <p align="center">
-  Algorithm Intern at <b>Lenovo Research</b> (Beijing HQ).
 </p>
 
 <p align="center">
@@ -67,12 +66,11 @@
       <b>Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting</b><br/>
       <span>Authors: <b>Shilong Jin</b>, Haoran Duan, Litao Hua, Wentao Huang, Yuan Zhou</span><br/>
       <a href="https://arxiv.org/pdf/2512.07345"><img src="https://img.shields.io/badge/arXiv-2512.07345-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv:2512.07345" /></a>
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37470"><img src="https://img.shields.io/badge/AAAI%20Official-10.1609%2Faaai.v40i7.37470-blue?style=flat" alt="AAAI Official" /></a>
       <a href="https://github.com/kimslong/AAAI26-TDAttn"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
     </td>
   </tr>
 </table>
-
-
 
 <!-- 论文3：独立表格 -->
 <table style="background-color: white !important; border: none;">
@@ -88,6 +86,7 @@
       <b>ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding</b><br/>
       <span>Authors: Yuan Zhou, Litao Hua, <b>Shilong Jin</b>, Wentao Huang, Haoran Duan</span><br/>
       <a href="https://arxiv.org/abs/2511.12530"><img src="https://img.shields.io/badge/arXiv-2511.12530-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv:2511.12530" /></a>
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38387"><img src="https://img.shields.io/badge/AAAI%20Official-10.1609%2Faaai.v40i16.38387-blue?style=flat" alt="AAAI Official" /></a>
       <a href="https://github.com/robin-hlt/AAAI26-ReaSon"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
     </td>
   </tr>

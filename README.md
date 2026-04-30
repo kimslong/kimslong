@@ -62,6 +62,7 @@
       <img src="aaai_icon_raw.png" alt="TIP26 icon" style="height:4em; border:none;" /><br/><br/>
       <img src="https://img.shields.io/badge/AAAI%2726-2ea44f?style=flat" alt="AAAI'26" />
       <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />
+      <a href="https://underline.io/lecture/140473-debiasing-diffusion-priors-via-3d-attention-for-consistent-gaussian-splatting"><img src="https://img.shields.io/badge/Poster-Singapore-9cf?style=flat" alt="Poster" /></a>
       <br/>
       <b>Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting</b><br/>
       <span>Authors: <b>Shilong Jin</b>, Haoran Duan, Litao Hua, Wentao Huang, Yuan Zhou</span><br/>
@@ -82,6 +83,7 @@
       <img src="aaai_icon_raw.png" alt="TIP26 icon" style="height:4em; border:none;" /><br/><br/>
       <img src="https://img.shields.io/badge/AAAI%2726-2ea44f?style=flat" alt="AAAI'26" />
       <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />
+      <a href="https://underline.io/lecture/140468-reason-reinforced-causal-search-with-information-bottleneck-for-video-understanding"><img src="https://img.shields.io/badge/Poster-Singapore-9cf?style=flat" alt="Poster" /></a>
       <br/>
       <b>ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding</b><br/>
       <span>Authors: Yuan Zhou, Litao Hua, <b>Shilong Jin</b>, Wentao Huang, Haoran Duan</span><br/>

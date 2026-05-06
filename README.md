@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Shilong Jin 👋</h1>
 
 <p align="center">
-  Third‑year M.S. postgraduate at <b>Nanjing University of Information Science and Technology</b><br>
-  Supervised by Prof. <a href="https://github.com/GAInuist"><b>Yuan Zhou</b></a>. Closely working with <a href="https://github.com/haoranD"><b>Haoran Duan</b></a> in Tsinghua University. 
-  <p align="center">
+  First‑year Ph.D. Candidate at <b>Nanjing University of Aeronautics and Astronautics (NUAA)</b><br>
+  Member of <a href="http://nuaamvp.cn/"><b>MVP Lab</b></a>, supervised by Prof. <a href="https://sites.google.com/site/firmamentqj/"><b>Jie Qin</b></a>.<br>
+  Closely working with <a href="https://github.com/haoranD"><b>Haoran Duan</b></a> in Tsinghua University.
 </p>
 
 <p align="center">
@@ -180,10 +180,12 @@
 ---
 ### 👥 My Circle
 
-- 👨‍🏫 Advisor: <a href="https://faculty.nuist.edu.cn/YuanZHOU/en/index.htm"><b>Yuan Zhou</b></a> — NUIST
-- 🤝 Clooooooooose collaborator: <a href="https://haoranduan.com/"><b>Haoran Duan</b></a> — Tsinghua University  
-- 🧑‍🔬 Labmates: <a href="https://robin-hlt.github.io/"><b>Litao Hua</b></a>, <a href="https://github.com/huangHH73"><b>Wentao Huang</b></a>, <b>Zhixuan Deng</b></a> (NUIST);
-<b>Lei Xiang</b> (Nagoya University); <b>Yifan Zhu</b> (NJUST)
+<ul>
+  <li>👨‍🏫 PhD Advisor: <a href="https://sites.google.com/site/firmamentqj/"><b>Jie Qin</b></a> — NUAA </li>
+  <li>👨‍🏫 Master's Advisor: <a href="https://faculty.nuist.edu.cn/YuanZHOU/en/index.htm"><b>Yuan Zhou</b></a> — NUIST</li>
+  <li>🤝 Close collaborator: <a href="https://haoranduan.com/"><b>Haoran Duan</b></a> — Tsinghua University</li>
+  <li>🧑‍🔬 Labmates: <a href="https://robin-hlt.github.io/"><b>Litao Hua</b></a>, <a href="https://github.com/huangHH73"><b>Wentao Huang</b></a>, <b>Zhixuan Deng</b> (NUIST); <b>Lei Xiang</b> (Nagoya University); <b>Yifan Zhu</b> (NJUST)</li>
+</ul>
 
 
 ---

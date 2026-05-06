@@ -32,7 +32,7 @@
 
 ### 📝 Papers
 
-<!-- 论文1：独立表格-->
+<!-- 论文1：独立表格 -->
 <table style="background-color: white !important; border: none;">
   <tr style="background-color: white !important; border: none;">
     <td width="30%" style="background-color: white !important; border: none; padding: 8px 0;">
@@ -40,13 +40,14 @@
     </td>
     <td style="background-color: white !important; border: none; text-align: center; padding: 8px 0;">
       <img src="TIP26_icon.png" alt="TIP26 icon" style="height:7em; border:none;" /><br/><br/>
-      <img src="https://img.shields.io/badge/IEEE- TIP'26-2ea44f?style=flat" alt="IEEE- TIP' 26" />
-      <img src="https://img.shields.io/badge/SCI-Q1 Top-b31b1b?style=flat" alt="SCI Q1" />
+      <img src="https://img.shields.io/badge/IEEE-TIP'26-2ea44f?style=flat" alt="IEEE TIP'26" />
+      <img src="https://img.shields.io/badge/SCI-Q1_Top-b31b1b?style=flat" alt="SCI Q1 Top" />
       <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />
       <img src="https://img.shields.io/badge/IF-13.7-blue?style=flat" alt="IF 13.7" /><br/>
       <b>ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation</b><br/>
      <span>Authors: Yuan Zhou, <b style="font-size: 1.3rem;">Shilong Jin</b>, Litao Hua, Wanjun Lv, Haoran Duan, Jungong Han</span><br/>
       <a href="https://arxiv.org/abs/2504.02316"><img src="https://img.shields.io/badge/arXiv-2504.02316-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv:2504.02316" /></a>
+      <a href="https://ieeexplore.ieee.org/document/11505712"><img src="https://img.shields.io/badge/IEEE_Xplore-10.1109%2FTIP.2026.3688156-blue?style=flat" alt="IEEE Xplore Official" /></a>
       <a href="https://github.com/GAInuist/ConsDreamer"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
     </td>
   </tr>

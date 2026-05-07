@@ -9,7 +9,7 @@
 <p align="center">
   <a href="mailto:shilong.jin@nuist.edu.cn"><img src="https://img.shields.io/badge/Email-shilong.jin%40nuist.edu.cn-0078D4?style=flat&logo=gmail&logoColor=white" alt="Email: shilong.jin@nuist.edu.cn" /></a>
   <a href="mailto:shilonnng@gmail.com"><img src="https://img.shields.io/badge/Gmail-shilonnng%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail: shilonnng@gmail.com" /></a>
-  <!-- <a href="https://kimslong.github.io/"><img src="https://img.shields.io/badge/Homepage-kimslong.github.io-181717?style=flat&logo=github&logoColor=white" alt="Homepage: kimslong.github.io" /></a>-->
+  <a href="https://kimslong.github.io/"><img src="https://img.shields.io/badge/Homepage-kimslong.github.io-181717?style=flat&logo=github&logoColor=white" alt="Homepage: kimslong.github.io" /></a>
 </p>
 
 ---

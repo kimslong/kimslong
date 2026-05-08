@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Shilong Jin 👋</h1>
 
 <p align="center">
-  Third-year M.S. postgraduate at Nanjing University of Information Science and Technology<br>
-  Supervised by Prof. <a href="https://github.com/GAInuist"><b>Yuan Zhou</b></a>.<br>
-  First‑year Ph.D. Candidate at Nanjing University of Aeronautics and Astronautics (NUAA)<br>
-  Member of <a href="http://nuaamvp.cn/"><b>MVP Lab</b></a>, supervised by Prof. <a href="https://sites.google.com/site/firmamentqj/"><b>Jie Qin</b></a>.<br>
-  Closely working with <a href="https://github.com/haoranD"><b>Haoran Duan</b></a> in Tsinghua University.
+  Third-year M.S. postgraduate at NUIST, member of <a href="https://github.com/GAInuist"><b>GAInuist</b></a>, supervised by Prof. <a href="https://github.com/GAInuist"><b>Yuan Zhou</b></a>.<br>
+  Prospective Ph.D. Candidate at NUAA, member of <a href="http://nuaamvp.cn/"><b>MVP Lab</b></a>, supervised by Prof. <a href="https://sites.google.com/site/firmamentqj/"><b>Jie Qin</b></a>.<br>
+  Closely working with <a href="https://github.com/haoranD"><b>Haoran Duan</b></a>, Tsinghua University.
 </p>
 
 <p align="center">

@@ -17,6 +17,8 @@
 ### 🔥 News
 
 <ul>
+   <li>2026.05: 🎉 My work has been selected as a poster presentation at <b>VALSE 2026</b>
+    <img src="https://img.shields.io/badge/VALSE-2026-green?style=flat" alt="VALSE 2026" /></li>
    <li>2026.04: 🎉 My Paper <a href="https://github.com/GAInuist/ConsDreamer"><b>ConsDreamer</b></a> — <b>accepted to IEEE TIP'26</b> 
     <img src="https://img.shields.io/badge/SCI-Q1 Top-b31b1b?style=flat" alt="SCI Q1" />
     <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />

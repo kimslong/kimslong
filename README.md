@@ -25,7 +25,7 @@
    <li>2026.04: 🎉 My Paper <a href="https://github.com/GAInuist/ConsDreamer"><b>ConsDreamer</b></a> — <b>accepted to IEEE TIP'26</b> 
     <img src="https://img.shields.io/badge/SCI-Q1 Top-b31b1b?style=flat" alt="SCI Q1" />
     <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />
-    <img src="https://img.shields.io/badge/IF-13.7-blue?style=flat" alt="IF 13.7" /></li> 
+    <img src="https://img.shields.io/badge/IF-15.3-blue?style=flat" alt="IF 15.3" /></li> 
   <li>2026.01: 🎓 Pursuing Ph.D. in Artificial Intelligence at <b>NUAA</b> (Nanjing University of Aeronautics and Astronautics)</li>
   <li>2025.11: 🎉 My Paper <a href="https://github.com/kimslong/AAAI26-TDAttn"><b>TD‑Attn</b></a> — <b>accepted to AAAI'26</b> <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" /></li>
   <li>2025.11: 🎉 My Paper <a href="https://github.com/robin-hlt/AAAI26-ReaSon"><b>ReaSon</b></a> — <b>accepted to AAAI'26</b> <img src="https://img.shields.io/badge/CCF-A-%23A51C1C?style=flat" alt="CCF-A" /></li>
@@ -49,7 +49,7 @@
       <img src="https://img.shields.io/badge/IEEE-TIP'26-2ea44f?style=flat" alt="IEEE TIP'26" />
       <img src="https://img.shields.io/badge/SCI-Q1_Top-b31b1b?style=flat" alt="SCI Q1 Top" />
       <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" />
-      <img src="https://img.shields.io/badge/IF-13.7-blue?style=flat" alt="IF 13.7" /><br/>
+      <img src="https://img.shields.io/badge/IF-15.3-blue?style=flat" alt="IF 15.3" /><br/>
       <b>ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation</b><br/>
      <span>Authors: Yuan Zhou, <b style="font-size: 1.3rem;">Shilong Jin</b>, Litao Hua, Wanjun Lv, Haoran Duan, Jungong Han</span><br/>
       <a href="https://arxiv.org/abs/2504.02316"><img src="https://img.shields.io/badge/arXiv-2504.02316-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv:2504.02316" /></a>

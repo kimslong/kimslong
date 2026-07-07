@@ -1,14 +1,18 @@
-<h1 align="center">Hi, I'm Shilong Jin 👋</h1><p align="center">
-  <a href="mailto:shilonnng@gmail.com"><img src="https://img.shields.io/badge/Gmail-shilonnng%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail: shilonnng@gmail.com" /></a>
-</p>
+<h1 align="center">Hi, I'm Shilong Jin 👋</h1>
 
 <p align="center">
   Prospective Ph.D. Candidate at NUAA, member of <a href="http://nuaamvp.cn/"><b>MVP Lab</b></a>, supervised by Prof. <a href="https://sites.google.com/site/firmamentqj/"><b>Jie Qin</b></a>.<br>
-  </p>
+</p>
 
-<h1 align="center">
-  <a href="https://kimslong.github.io/">My Personal Homepage</a>
-</h1>
+<p align="center">
+  <a href="https://kimslong.github.io/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Homepage-kimslong.github.io-2ea44f?style=flat&logo=github&logoColor=white&labelWidth=170&logoWidth=24" alt="My Personal Homepage: https://kimslong.github.io/" />
+  </a>
+
+  <a href="mailto:shilonnng@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-shilonnng%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail: shilonnng@gmail.com" />
+  </a>
+</p>
 
 ---
 

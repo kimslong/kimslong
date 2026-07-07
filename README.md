@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shilong Jin 👋</h1>
 
 <p align="center">
-  Prospective Ph.D. Candidate at NUAA, member of <a href="http://nuaamvp.cn/"><b>MVP Lab</b></a>, supervised by Prof. <a href="https://sites.google.com/site/firmamentqj/"><b>Jie Qin</b></a>.<br>
+  Ph.D. Candidate at NUAA, member of <a href="http://nuaamvp.cn/"><b>MVP Lab</b></a>, supervised by Prof. <a href="https://sites.google.com/site/firmamentqj/"><b>Jie Qin</b></a>.<br>
 </p>
 
 <p align="center">

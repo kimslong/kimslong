@@ -160,7 +160,7 @@
 <table style="background-color: white !important; border: none; width: 100%;">
   <tr style="background-color: white !important; border: none;">
     <td width="40%" style="background-color: white !important; border: none; padding: 8px 0; text-align: center;">
-      <img src="n2pdo-bu81m.png" alt="Meituan Logo" style="border-radius:8px;border:1px solid #eaeaea;width:100%; display: block; margin: 0 auto;" />
+      <img src="meituan-uav.png" alt="Meituan Logo" style="border-radius:8px;border:1px solid #eaeaea;width:100%; display: block; margin: 0 auto;" />
     </td>
     <td width="60%" style="background-color: white !important; border: none; text-align: left; padding: 8px 16px; line-height: 1.8;">
       <b style="font-size: 1.8rem;">Meituan (Beijing HQ)</b><br/>

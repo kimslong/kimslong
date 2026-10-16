@@ -19,7 +19,7 @@
 ### 🔥 News
 
 <ul>
-  <li>2026.09: 💼 Algorithm Intern at <b>Meituan</b> (Beijing HQ) <img src="se7fw-x7o1t.png" alt="meituan_icon" style="height:1.2em; vertical-align:bottom; display:inline; border:none;" /> </li>
+  <!-- <li>2026.09: 💼 Algorithm Intern at <b>Meituan</b> (Beijing HQ) <img src="se7fw-x7o1t.png" alt="meituan_icon" style="height:1.2em; vertical-align:bottom; display:inline; border:none;" /> </li>-->
    <li>2026.05: 🎉 My work has been selected as a poster presentation at <b>VALSE 2026</b>
     <img src="https://img.shields.io/badge/VALSE-2026-green?style=flat" alt="VALSE 2026" /></li>
    <li>2026.04: 🎉 My Paper <a href="https://github.com/GAInuist/ConsDreamer"><b>ConsDreamer</b></a> — <b>accepted to IEEE TIP'26</b> 
@@ -30,7 +30,7 @@
   <li>2025.11: 🎉 My Paper <a href="https://github.com/kimslong/AAAI26-TDAttn"><b>TD‑Attn</b></a> — <b>accepted to AAAI'26</b> <img src="https://img.shields.io/badge/CCF-A-b31b1b?style=flat" alt="CCF-A" /></li>
   <li>2025.11: 🎉 My Paper <a href="https://github.com/robin-hlt/AAAI26-ReaSon"><b>ReaSon</b></a> — <b>accepted to AAAI'26</b> <img src="https://img.shields.io/badge/CCF-A-%23A51C1C?style=flat" alt="CCF-A" /></li>
   <li>2025.10: 🎉 My Paper <a href="https://github.com/GAInuist/ZeroDINO"><b>ZeroDINO</b></a> — <b>accepted to MMM'26</b> <img src="https://img.shields.io/badge/CCF-C-orange?style=flat" alt="CCF-C" /></li>
-  <li>2025.09: 💼 Algorithm Intern at <b>Lenovo Research</b> (Beijing HQ) <img src="Lenovo-China-logo-02.png" alt="lenovo_icon" style="height:1.2em; vertical-align:bottom; display:inline; border:none;" /> </li>
+  <!--<li>2025.09: 💼 Algorithm Intern at <b>Lenovo Research</b> (Beijing HQ) <img src="Lenovo-China-logo-02.png" alt="lenovo_icon" style="height:1.2em; vertical-align:bottom; display:inline; border:none;" /> </li>-->
 </ul>
 
 
@@ -137,7 +137,7 @@
   </tr>
 </table>
 
- <!-- 发明专利：独立表格 -->
+ <!-- 发明专利：独立表格 
 <table style="background-color: white !important; border: none;">
   <tr style="background-color: white !important; border: none;">
    <td width="30%" style="background-color: white !important; border: none; padding: 8px 0;">
@@ -151,12 +151,14 @@
       <span>Inventors: Yuan Zhou, <b style="font-size: 1.3rem;">Shilong Jin</b></span><br/>
     </td>
   </tr>
-</table>
+</table>-->
 
 ---
+
+<!--
 ### 💼 Internships
 
-<!-- 实习1：Meituan -->
+
 <table style="background-color: white !important; border: none; width: 100%;">
   <tr style="background-color: white !important; border: none;">
     <td width="40%" style="background-color: white !important; border: none; padding: 8px 0; text-align: center;">
@@ -169,25 +171,23 @@
       <span style="font-size: 1.1rem;">Pretrained Models for Embodied Intelligence</span>
     </td>
   </tr>
-</table>
-<!-- 实习2：Lenovo Research - 优化后布局 -->
-<table style="background-color: white !important; border: none; width: 100%;"> <!-- 关键：添加width:100%让表格占满宽度 -->
+</table> 
+
+<table style="background-color: white !important; border: none; width: 100%;"> 
   <tr style="background-color: white !important; border: none;">
-    <!-- 调整列宽为30%（logo列），更贴合视觉比例 -->
+ 
     <td width="40%" style="background-color: white !important; border: none; padding: 8px 0; text-align: center;">
-      <!-- 图片宽度调整为80%（相对于列），显示更合理 -->
+      
       <img src="Lenovo-China-logo-02.png" alt="Lenovo Research Logo" style="border-radius:8px;border:1px solid #eaeaea;width:100%; display: block; margin: 0 auto;" />
     </td>
-    <!-- 文字列占70%，填充右侧空间 -->
+   
     <td width="60%" style="background-color: white !important; border: none; text-align: left; padding: 8px 16px; line-height: 1.8;">
       <b style="font-size: 1.8rem;">Lenovo Research (Beijing HQ)</b> <br/>
       <span style="font-size: 1.1rem;">CTOO Human-centered Innovation Intelligence and Insights</span><br/>
       <span style="font-size: 1.1rem;"><b style="font-size: 1.8rem;">Algorithm Intern </b>· Sep. 2025 – Jan. 2026</span><br/>
       <span style="font-size: 1.1rem;">Hand-Eye Intent Interaction Understanding · Pose Estimation Algorithms</span>
     </td>
-  </tr>
-</table>
+  </tr> 
+</table>-->
 
-
----
 
